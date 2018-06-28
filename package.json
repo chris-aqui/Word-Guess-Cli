@@ -1,0 +1,26 @@
+{
+  "name": "Homework-week11",
+  "version": "1.0.0",
+  "description": "Optional Homework Create a Word Guess command-line game using constructor functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christine-aqui/Word-Guess-Cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christine-aqui/Word-Guess-Cli/issues"
+  },
+  "homepage": "https://github.com/christine-aqui/Word-Guess-Cli#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
